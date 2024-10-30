@@ -2,6 +2,16 @@
 
 A web application that allows users to create, manage, and study flashcards using the SM-2 algorithm, a spaced repetition system designed to help users optimize learning efficiency. The site includes user authentication, flashcard set management, and a study mode for reviewing flashcards based on the SM-2 algorithm.
 
+## Preview
+
+
+<p align="center">
+<img width="32%" src="docs/Flashcard%20Sets%20Page.png" alt="flashcard sets page">
+<img width="32%" src="docs/Flashcards%20Page.png" alt="flashcards page">
+<img width="32%" src="docs/Lesson%20Page.png" alt="lesson page">
+</p>
+</details>
+
 ## Features
 
 ### User Authentication
@@ -81,10 +91,6 @@ A web application that allows users to create, manage, and study flashcards usin
 2. Navigate to the **Sets Page** to create new flashcard sets.
 3. Within a set, go to the **Flashcards Page** to add, edit, or delete flashcards.
 4. Start a study session from the **Study Page**, where the SM-2 algorithm will determine the optimal intervals for reviewing each card based on your prior performance.
-
-## Documentations
-
-
 
 ## Planned improvements and features:
 
